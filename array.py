@@ -9,3 +9,9 @@ print("3º nome da lista de alunos:", listStudants[2])
 
 #Último elemento do array
 print("Último nome da lista de alunos:", listStudants[-1])
+
+#Condicional if else 
+if 'Carla' in listStudants:
+    print("Carla está na lista")
+else :
+    print("Carla não está na lista")

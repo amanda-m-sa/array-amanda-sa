@@ -15,3 +15,5 @@ if 'Carla' in listStudants:
     print("Carla está na lista")
 else :
     print("Carla não está na lista")
+
+print("Seguem nomes da lista:", listStudants)

@@ -12,8 +12,10 @@ Criar um código que utilize a lógica da função array em Python.
     ```
 
 ## Exemplo de saída
+```
 1º nome da lista de alunos: David
 3º nome da lista de alunos: Itamar
 Último nome da lista de alunos: Ariel
 Carla não está na lista
 Seguem nomes da lista: ['David', 'Kayk', 'Itamar', 'Mauricio', 'Ariel'] 
+```
